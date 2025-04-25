@@ -87,6 +87,10 @@ through language-based probing alone.
 
 ---
 
+> Time-sensitive.  
+> This repository is not waiting.  
+> **ASAP action is advised.**
+
 ## Contact
 
 > **gpt.signal.log@gmail.com**
